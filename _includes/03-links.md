@@ -1,1 +1,1 @@
-https://example.com
+https://image.com
